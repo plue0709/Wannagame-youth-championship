@@ -39,6 +39,8 @@ Chắc chắn zip2john sẽ vô dụng. Sau một lúc xem hint và tìm thì m�
 Có một tool có thể mở được file zip khi có được một file trong đó là **pkcrack: https://github.com/keyunluo/pkcrack**. 
 Mình sẽ lấy tấm ảnh đã phục hồi tạo thành file zip trên linux (vì làm trên windows không được) rồi dùng pkcrack ghi dữ liệu vào một file zip mới (ở đây là cracked.zip) mở ra và xem
 
+![image](https://user-images.githubusercontent.com/80806913/170886397-b580b558-5c6c-40db-9b4b-f62a6593eda2.png)
+
 ![image](https://user-images.githubusercontent.com/80806913/170886207-25c23920-30ba-4f12-90bc-aa086c3c09ea.png)
 
 ![image](https://user-images.githubusercontent.com/80806913/170886263-b2fd8289-0118-461f-8f74-74b20bfcc35f.png)
