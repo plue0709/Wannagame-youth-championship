@@ -10,7 +10,7 @@ Như mọi bài stegano file Chall.png sẽ không mở được, mở bằng Hx
 
 Tham khảo: https://commons.wikimedia.org/wiki/File:Hex_editor_with_text_aliasing.png để biết thêm về mã hex của file png 
 
-Có vẻ file thiếu signature của một file png: **89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52**.Ban đầu mình bị stuck khá lâu vì mình thay dòng đầu tiên bằng signature chứ không thêm vào file, nên check bằng **pngcheck** cũng bị lỗi, sau thì mình mới thêm signature đó vào file thay vì ghi đè lên file. Nó như thế này: 
+Có vẻ file thiếu signature của một file png: **89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52**.Ban đầu mình bị stuck khá lâu vì mình thay dòng đầu tiên bằng signature chứ không ghi thêm vào file, nên check bằng **pngcheck** cũng bị lỗi, sau thì mình mới thêm signature đó vào file thay vì ghi đè lên file. Nó như thế này: 
 
 ![image](https://user-images.githubusercontent.com/80806913/170881294-88ee03bb-98d6-4742-bac4-1ee33adc12bc.png)
 
